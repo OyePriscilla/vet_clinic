@@ -13,7 +13,7 @@ git clone git@github.com:OyePriscilla/vet_clinic.git
 Navigate to the location of the folder in your machine:
 
  ~~~bash
- cd vet-clinic-database
+ cd vet_clinic
  ~~~
 
 - For Windows users, Run the following commands in your terminal
